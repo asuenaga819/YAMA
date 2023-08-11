@@ -1,7 +1,7 @@
 rule APT10_ANEL_InitRoutine {
       meta:
         description = "ANEL malware"
-        author = "JPCERT/CC Incident Response Group"
+        author = "JPCERT/CC Incident Response Group."
         hash = "2371f5b63b1e44ca52ce8140840f3a8b01b7e3002f0a7f0d61aecf539566e6a1"
 
     	strings:
